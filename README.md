@@ -1,41 +1,36 @@
 # Data Analytics Projects
 
-## 1. Sales Data Analysis (Excel)
-
-### Overview
-Performed sales data analysis using Excel to identify trends and key business insights.
-
-### Work Done
-- Created Pivot Tables for category-wise sales analysis
-- Built bar charts for performance comparison
-- Developed monthly trend analysis
+## 1. Sales Data Analysis using Excel
+Analyzed sales data using Excel to identify category-wise performance and monthly sales trends.
 
 ### Tools Used
 - Microsoft Excel
+- Pivot Tables
+- Charts
+
+### Key Work
+- Created pivot tables for sales summary
+- Built bar chart for category comparison
+- Built monthly sales trend visualization
+
+---
+
+## 2. Customer Segmentation using Python
+Performed customer segmentation analysis using Python and K-Means clustering.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Key Work
+- Loaded and explored customer dataset
+- Visualized Annual Income vs Spending Score
+- Applied K-Means clustering to group customers
+- Interpreted customer segments based on spending patterns
 
 ### Files
-- sales_analysis.xlsx
-- Charts (Screenshots)
-
----
-
-## 2. Customer Segmentation (Beginner ML Project)
-
-### Overview
-Analyzed customer data to understand segmentation patterns.
-
-### Dataset
 - customer_segmentation.csv
-
-### Approach
-- Basic data exploration
-- Understanding customer groups based on features
-
-### Tools (Next Step)
-- Python (Pandas, Matplotlib) *(to be added)*
-
----
-
-## Future Improvements
-- Add Python-based analysis
-- Apply clustering (K-Means)
+- Colab notebook (.ipynb)
+- Project screenshots
